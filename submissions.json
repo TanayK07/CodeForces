@@ -1,4 +1,21 @@
 {
+  "CF224225751": {
+    "contest_id": 1857,
+    "language": "GNU C++17",
+    "path": "codeforces\\1857\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Assembly via Minimums",
+    "problem_url": "https://codeforces.com/contest/1857/problem/C",
+    "submission_id": "CF224225751",
+    "submission_url": "https://codeforces.com/contest/1857/submission/224225751",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Sep/21/2023 03:30"
+  },
   "CF224672991": {
     "contest_id": 1857,
     "language": "GNU C++17",
