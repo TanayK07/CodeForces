@@ -1,0 +1,20 @@
+{
+  "CF226498401": {
+    "contest_id": 1859,
+    "language": "GNU C++17",
+    "path": "codeforces\\1859\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "United We Stand",
+    "problem_url": "https://codeforces.com/contest/1859/problem/A",
+    "submission_id": "CF226498401",
+    "submission_url": "https://codeforces.com/contest/1859/submission/226498401",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Oct/04/2023 02:09"
+  }
+}
